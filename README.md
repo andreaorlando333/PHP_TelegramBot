@@ -2,4 +2,4 @@
 Bot per telegram programmato in PHP5.
 ATTENZIONE: Il bot è stato scritto nel 2018. Veniva usato come host Altervista.
 Il bot ad oggi risulta obsoleto e con alcune falle di sicurezza, (dato che è stato scritto in PHP5, che sta venendo lentamente accantonato) ma è ancora online su Telegram e perfettamente funzionante.
-I plugin aggiuntivi appartengono alla versione 3 di AltervistaBot.
+Sono stati aggiungi plugin.
