@@ -1,10 +1,8 @@
 <?php
 
-echo "<br>Plugin Feedback: 2.0";
-
 
 $admin_list = array(
-$adminID, //questo lascialo
+$adminID, //non togliere
 14924659,
 );
 //aggiungi altri eventuali admin
