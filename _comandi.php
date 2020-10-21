@@ -1,10 +1,5 @@
 <?php
 
-
-
-
-
-
 //comandi del bot
 
 
