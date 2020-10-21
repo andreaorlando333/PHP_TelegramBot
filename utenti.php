@@ -1,7 +1,5 @@
 <?php
 
-echo "<br>Plugin Utenti 1.0";
-
 
 //iscritti
 
