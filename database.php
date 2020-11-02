@@ -1,7 +1,5 @@
 <?php
 
-echo "<br>Plugin Database: 2.0";
-
 
 if($_GET['install'] and $_GET['userbot'])
 {
