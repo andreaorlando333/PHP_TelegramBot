@@ -1,9 +1,5 @@
 <?php
 
-echo "Versione AltervistaBot: 3.0";
-
-
-
 
 if($config['funziona_nei_canali'])
 {
