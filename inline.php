@@ -1,6 +1,5 @@
 <?php
 
-echo "<br>Plugin Inline: 1.0";
 
 if($update["inline_query"])
 {
